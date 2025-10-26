@@ -1,0 +1,16 @@
+{
+  "agent_profiles_repo": "../ai-agent-profiles",
+  "active_agents": [
+    "test-planner-agent",
+    "orsa-evaluator-agent",
+    "technical-editor-agent",
+    "system-integration-agent",
+    "financial-analyst-agent",
+    "director-agent"
+  ],
+  "phase_mapping": {
+    "phase_19": ["system-integration-agent", "technical-editor-agent"],
+    "phase_20": ["test-planner-agent", "orsa-evaluator-agent"],
+    "phase_21": ["director-agent", "financial-analyst-agent"]
+  }
+}
