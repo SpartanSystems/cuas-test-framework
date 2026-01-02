@@ -49,7 +49,7 @@ cuas.publish_event({
 ## Related Repositories
 
 - [spartan-core](../spartan-core) - Core AI framework
-- [SpartanForge]([../SpartanForge) - Kubernetes deployment
+- [SpartanForge](https://github.com/SpartanSystems/SpartanForge) - Kubernetes deployment
 
 ## License
 
